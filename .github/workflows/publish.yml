@@ -17,7 +17,6 @@ jobs:
           - 'wakelock_macos'
           - 'wakelock_platform_interface'
           - 'wakelock_web'
-          - 'wakelock_windows'
       fail-fast: false
 
     steps:
